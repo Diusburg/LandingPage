@@ -1,8 +1,8 @@
 <p align="center"> <img src="img/logo.png" width="200"> </p>
 
-<h1 align="center"><code>Disburg's Landing Page</code></h1>
+<h1 align="center"><code>Diusburg's Landing Page</code></h1>
 <p align="center">
-    <strong>Disburg is a network of young people, experienced mentors, designers, <br> developers and working proffesionals.
+    <strong>Diusburg is a network of young people, experienced mentors, designers, <br> developers and working proffesionals.
     </strong>
 </p>
 
@@ -22,7 +22,7 @@
 ## 🤔 Who we are?
 We are learning, networking and an IT solutions platform having a solid network of IT experts and working Tech proffesionals. We are providing teaching, networking and IT solutions facilities by a community of experts across the globe.
 
-## 📚 Why Disburge?
+## 📚 Why Diusburg?
 We are the first in India to help those students who wants to go abroad for their higher education. We are **mentoring 500+ students** and helping them to master the skills in **tech industry**.
 
 ## 🧐 Why we are different form other community?
