@@ -7,13 +7,13 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/devstrons/hello-world/graphs/contributors">
+    <a href="https://github.com/Diusburg/LandingPage/graphs/contributors">
         <img src="https://img.shields.io/github/contributors/Diusburg/LandingPage?style=flat-square">
     </a>
-    <a href="https://github.com/devstrons/hello-world/issues">
+    <a href="https://github.com/Diusburg/LandingPage/issues">
         <img src="https://img.shields.io/github/issues-raw/Diusburg/LandingPage?label=issues&style=flat-square">
     </a>
-    <a href="https://github.com/devstrons/hello-world/commits/main">
+    <a href="https://github.com/Diusburg/LandingPage/commits/main">
         <img src="https://img.shields.io/github/last-commit/Diusburg/LandingPage.svg?style=flat-square">
     </a>
 </p>
