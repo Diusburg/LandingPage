@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/devstrons/hello-world/graphs/contributors">
+    <a href="https://github.com/Diusburg/LandingPage/graphs/contributors">
         <img src="https://img.shields.io/github/contributors/Diusburg/LandingPage?style=flat-square">
     </a>
     <a href="https://github.com/devstrons/hello-world/issues">
